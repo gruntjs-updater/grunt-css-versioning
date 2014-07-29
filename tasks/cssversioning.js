@@ -49,7 +49,6 @@ module.exports = function (grunt) {
             if (!selectorPrefix) {
                 return selector
             }
-            console.log("selectorPrefix=", selectorPrefix, selector);
             var prefix = selectorPrefix + versionPrefix + options.separator;
             return prefix + selector.replace(selectorPrefix, "");
         };

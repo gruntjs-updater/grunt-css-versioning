@@ -5,7 +5,7 @@
   "homepage": "https://github.com/cheshirsky/grunt-css-versioning",
   "author": "Cheshirsky",
   "files": [
-    "index.js"
+    "tasks"
   ],
   "repository": {
     "type": "git",
