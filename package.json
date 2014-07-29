@@ -1,0 +1,33 @@
+{
+  "name": "grunt-css-versioning",
+  "description": "Enables to use several versions (forks) of component styles",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cheshirsky/grunt-css-versioning",
+  "author": "Cheshirsky",
+  "files": [
+      "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cheshirsky/grunt-css-versioning.git"
+  },
+  "licenses": [{
+      "type": "MIT",
+      "url": "https://github.com/cheshirsky/grunt-css-versioning/blob/master/LICENSE-MIT"
+  }],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "css": "2.x.x"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "css",
+    "versioning"
+  ]
+}
