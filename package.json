@@ -5,17 +5,13 @@
   "homepage": "https://github.com/cheshirsky/grunt-css-versioning",
   "author": "Cheshirsky",
   "files": [
-      "index.js"
+    "index.js"
   ],
   "repository": {
     "type": "git",
     "url": "git://github.com/cheshirsky/grunt-css-versioning.git"
-  },
-  "licenses": [{
-      "type": "MIT",
-      "url": "https://github.com/cheshirsky/grunt-css-versioning/blob/master/LICENSE"
-  }],
-  "main": "Gruntfile.js",
+   },
+  "main": "index.js",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -29,5 +25,13 @@
     "gruntplugin",
     "css",
     "versioning"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/cheshirsky/grunt-css-versioning/issues"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
