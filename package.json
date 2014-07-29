@@ -13,7 +13,7 @@
   },
   "licenses": [{
       "type": "MIT",
-      "url": "https://github.com/cheshirsky/grunt-css-versioning/blob/master/LICENSE-MIT"
+      "url": "https://github.com/cheshirsky/grunt-css-versioning/blob/master/LICENSE"
   }],
   "main": "Gruntfile.js",
   "engines": {
